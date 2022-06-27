@@ -1,0 +1,46 @@
+h1{
+	color:white;
+	text-decoration:underline;
+	}
+body {background-color: black; 
+	font-family: "Comic Sans Ms", cursive, sans-serif;
+	margin:0;
+}
+.box-1 { background-color: violet;
+color:white;
+border: 5px white dotted;
+}
+h2{
+	color: white;
+	background-color: violet;
+}
+#navbar{
+	background-color:red;
+	color:black;
+}
+#navbar ul {
+	padding:0;
+	list-style: none;
+}
+#navbar li{
+	display:inline;
+}
+#navbar a{
+	color:black;
+	text-decoration: none;
+	font-size: 18px;
+	padding-right:75px;
+	padding-left: 75px;
+}
+.box-2 {background-color: hotpink;
+color:white;
+border: 5px limegreen dotted;
+}
+h4{ font-size: 18px;
+}
+.categories {
+	background-color: lightblue;
+	color: white;
+	border: 5px yellow dotted;
+	padding:5px;
+}
